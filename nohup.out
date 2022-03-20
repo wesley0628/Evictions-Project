@@ -1,0 +1,79 @@
+[I 12:48:28.388 NotebookApp] Writing notebook server cookie secret to /home/aaron/.local/share/jupyter/runtime/notebook_cookie_secret
+[I 12:48:28.717 NotebookApp] Serving notebooks from local directory: /mnt/c/Users/Patron/Documents/GitHub/Evictions-Project
+[I 12:48:28.718 NotebookApp] Jupyter Notebook 6.4.10 is running at:
+[I 12:48:28.718 NotebookApp] http://LOAN-MEM-D030:2020/
+[I 12:48:28.719 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 12:48:58.570 NotebookApp] 302 GET / (127.0.0.1) 0.790000ms
+[I 12:48:58.641 NotebookApp] 302 GET /tree? (127.0.0.1) 1.700000ms
+[W 12:49:00.868 NotebookApp] 401 POST /login?next=%2Ftree%3F (127.0.0.1) 66.730000ms referer=http://127.0.0.1:2020/login?next=%2Ftree%3F
+[W 12:49:02.891 NotebookApp] 401 POST /login?next=%2Ftree%3F (127.0.0.1) 145.790000ms referer=http://127.0.0.1:2020/login?next=%2Ftree%3F
+[W 12:49:05.580 NotebookApp] 401 POST /login?next=%2Ftree%3F (127.0.0.1) 134.180000ms referer=http://127.0.0.1:2020/login?next=%2Ftree%3F
+[W 12:49:20.649 NotebookApp] 401 POST /login?next=%2Ftree%3F (127.0.0.1) 91.320000ms referer=http://127.0.0.1:2020/login?next=%2Ftree%3F
+[W 12:49:28.680 NotebookApp] 401 POST /login?next=%2Ftree%3F (127.0.0.1) 68.310000ms referer=http://127.0.0.1:2020/login?next=%2Ftree%3F
+[I 12:49:36.594 NotebookApp] Interrupted...
+[I 12:49:36.596 NotebookApp] Shutting down 0 kernels
+[I 12:49:36.598 NotebookApp] Shutting down 0 terminals
+[I 12:49:59.749 NotebookApp] Serving notebooks from local directory: /mnt/c/Users/Patron/Documents/GitHub/Evictions-Project
+[I 12:49:59.750 NotebookApp] Jupyter Notebook 6.4.10 is running at:
+[I 12:49:59.750 NotebookApp] http://LOAN-MEM-D030:2020/
+[I 12:49:59.751 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 12:50:06.191 NotebookApp] 302 GET / (127.0.0.1) 1.190000ms
+[I 12:50:06.245 NotebookApp] 302 GET /tree? (127.0.0.1) 1.330000ms
+[I 12:50:09.085 NotebookApp] 302 POST /login?next=%2Ftree%3F (127.0.0.1) 97.600000ms
+[I 12:51:10.999 NotebookApp] Writing notebook-signing key to /home/aaron/.local/share/jupyter/notebook_secret
+[W 12:51:11.004 NotebookApp] Notebook apartments/apartment visualization.ipynb is not trusted
+[I 12:51:13.556 NotebookApp] Kernel started: ad95d475-dea4-4536-8a80-f0b2f775204c, name: python3
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 1760633c-f349-4f49-9d0f-db6ad206ab49
+[I 12:53:14.467 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[W 12:53:14.472 NotebookApp] Notebook apartments/apartment visualization.ipynb is not trusted
+[I 12:54:21.321 NotebookApp] Starting buffering for ad95d475-dea4-4536-8a80-f0b2f775204c:ece592c7db9948b882ead69f42181450
+[I 12:54:22.103 NotebookApp] Kernel restarted: ad95d475-dea4-4536-8a80-f0b2f775204c
+[I 12:54:22.170 NotebookApp] Restoring connection for ad95d475-dea4-4536-8a80-f0b2f775204c:ece592c7db9948b882ead69f42181450
+[I 12:54:23.755 NotebookApp] Replaying 3 buffered messages
+[I 12:55:14.775 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 12:56:42.608 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[W 13:02:14.143 NotebookApp] Notebook apartments/Untitled.ipynb is not trusted
+[I 13:02:14.563 NotebookApp] Kernel started: d9652871-2482-496e-81e6-fce99060e478, name: python3
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: f14acc85-6801-4a22-82b4-518fef4f6439
+[I 13:03:15.363 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 13:03:45.047 NotebookApp] Saving file at /apartments/Untitled.ipynb
+[W 13:03:45.048 NotebookApp] Notebook apartments/Untitled.ipynb is not trusted
+[I 13:03:46.225 NotebookApp] Saving file at /apartments/Untitled.ipynb
+[W 13:03:46.226 NotebookApp] Notebook apartments/Untitled.ipynb is not trusted
+[I 13:03:47.337 NotebookApp] Starting buffering for d9652871-2482-496e-81e6-fce99060e478:47d52bb8e047498998f51de399470fc9
+[I 13:05:15.443 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 13:05:42.248 NotebookApp] Kernel shutdown: d9652871-2482-496e-81e6-fce99060e478
+[W 13:05:47.909 NotebookApp] delete /apartments/Untitled.ipynb
+[E 13:05:47.962 NotebookApp] Uncaught exception DELETE /api/contents/apartments/Untitled.ipynb (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='127.0.0.1:2020', method='DELETE', uri='/api/contents/apartments/Untitled.ipynb', version='HTTP/1.1', remote_ip='127.0.0.1')
+    Traceback (most recent call last):
+      File "/home/aaron/.local/lib/python3.8/site-packages/send2trash/plat_gio.py", line 17, in send2trash
+        f.trash(cancellable=None)
+    gi.repository.GLib.GError: g-io-error-quark: Unable to find or create trash directory for /mnt/c/Users/Patron/Documents/GitHub/Evictions-Project/apartments/Untitled.ipynb (0)
+    
+    During handling of the above exception, another exception occurred:
+    
+    Traceback (most recent call last):
+      File "/home/aaron/.local/lib/python3.8/site-packages/tornado/web.py", line 1704, in _execute
+        result = await result
+      File "/home/aaron/.local/lib/python3.8/site-packages/tornado/gen.py", line 234, in wrapper
+        yielded = ctx_run(next, result)
+      File "/home/aaron/.local/lib/python3.8/site-packages/notebook/services/contents/handlers.py", line 242, in delete
+        yield maybe_future(cm.delete(path))
+      File "/home/aaron/.local/lib/python3.8/site-packages/notebook/services/contents/manager.py", line 279, in delete
+        self.delete_file(path)
+      File "/home/aaron/.local/lib/python3.8/site-packages/notebook/services/contents/filemanager.py", line 533, in delete_file
+        send2trash(os_path)
+      File "/home/aaron/.local/lib/python3.8/site-packages/send2trash/plat_gio.py", line 23, in send2trash
+        raise OSError(e.message)
+    OSError: Unable to find or create trash directory for /mnt/c/Users/Patron/Documents/GitHub/Evictions-Project/apartments/Untitled.ipynb
+[W 13:05:47.972 NotebookApp] Unhandled error
+[E 13:05:47.975 NotebookApp] {
+      "Host": "127.0.0.1:2020",
+      "Accept": "application/json, text/javascript, */*; q=0.01",
+      "Referer": "http://127.0.0.1:2020/tree/apartments",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:98.0) Gecko/20100101 Firefox/98.0"
+    }
+[E 13:05:47.977 NotebookApp] 500 DELETE /api/contents/apartments/Untitled.ipynb (127.0.0.1) 68.870000ms referer=http://127.0.0.1:2020/tree/apartments
