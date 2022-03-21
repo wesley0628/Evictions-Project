@@ -77,3 +77,57 @@
       "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:98.0) Gecko/20100101 Firefox/98.0"
     }
 [E 13:05:47.977 NotebookApp] 500 DELETE /api/contents/apartments/Untitled.ipynb (127.0.0.1) 68.870000ms referer=http://127.0.0.1:2020/tree/apartments
+[I 14:17:02.192 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 14:19:02.202 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 14:23:02.096 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 14:25:02.049 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 14:27:02.650 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 14:28:35.831 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 14:29:02.878 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 14:29:53.231 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 14:31:02.616 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 14:33:02.782 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 14:35:02.923 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 14:35:28.853 NotebookApp] Starting buffering for ad95d475-dea4-4536-8a80-f0b2f775204c:ece592c7db9948b882ead69f42181450
+[I 14:35:31.503 NotebookApp] Kernel restarted: ad95d475-dea4-4536-8a80-f0b2f775204c
+[I 14:35:31.581 NotebookApp] Restoring connection for ad95d475-dea4-4536-8a80-f0b2f775204c:ece592c7db9948b882ead69f42181450
+[I 14:35:32.779 NotebookApp] Replaying 3 buffered messages
+[I 14:37:02.842 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 14:39:02.870 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 14:39:25.939 NotebookApp] Starting buffering for ad95d475-dea4-4536-8a80-f0b2f775204c:ece592c7db9948b882ead69f42181450
+[I 14:39:28.701 NotebookApp] Kernel restarted: ad95d475-dea4-4536-8a80-f0b2f775204c
+[I 14:39:28.749 NotebookApp] Restoring connection for ad95d475-dea4-4536-8a80-f0b2f775204c:ece592c7db9948b882ead69f42181450
+[I 14:39:30.210 NotebookApp] Replaying 3 buffered messages
+[I 14:41:02.804 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 14:43:02.805 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 14:45:04.212 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 14:47:03.384 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 14:51:04.321 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 14:54:00.775 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 14:54:02.378 NotebookApp] Starting buffering for ad95d475-dea4-4536-8a80-f0b2f775204c:ece592c7db9948b882ead69f42181450
+[I 14:54:03.772 NotebookApp] Shutting down on /api/shutdown request.
+[I 14:54:03.775 NotebookApp] Shutting down 1 kernel
+[I 14:54:03.781 NotebookApp] Kernel shutdown: ad95d475-dea4-4536-8a80-f0b2f775204c
+[I 14:54:06.401 NotebookApp] Shutting down 0 terminals
+[I 14:56:58.246 NotebookApp] Serving notebooks from local directory: /mnt/c/Users/Patron/Documents/GitHub/Evictions-Project
+[I 14:56:58.247 NotebookApp] Jupyter Notebook 6.4.10 is running at:
+[I 14:56:58.248 NotebookApp] http://LOAN-MEM-D030:2020/
+[I 14:56:58.248 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 14:57:08.522 NotebookApp] 302 GET / (127.0.0.1) 0.770000ms
+[I 14:57:16.035 NotebookApp] Shutting down on /api/shutdown request.
+[I 14:57:16.037 NotebookApp] Shutting down 0 kernels
+[I 14:57:16.039 NotebookApp] Shutting down 0 terminals
+[I 15:00:50.352 NotebookApp] Serving notebooks from local directory: /mnt/c/Users/Patron/Documents/GitHub/Evictions-Project
+[I 15:00:50.353 NotebookApp] Jupyter Notebook 6.4.10 is running at:
+[I 15:00:50.354 NotebookApp] http://LOAN-MEM-D030:2020/
+[I 15:00:50.355 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 15:00:55.292 NotebookApp] 302 GET / (127.0.0.1) 1.430000ms
+[W 15:01:06.847 NotebookApp] Notebook apartments/apartment visualization.ipynb is not trusted
+[I 15:01:09.677 NotebookApp] Kernel started: 671c0d97-1e0d-478a-a0dc-8c16162257bd, name: python3
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: a93bc364-b53a-4a6c-876b-699a0d49a236
+[I 19:48:59.436 NotebookApp] Starting buffering for 671c0d97-1e0d-478a-a0dc-8c16162257bd:338e1c2f5171495dbd62e47d424a40fc
+[I 19:49:01.380 NotebookApp] Shutting down on /api/shutdown request.
+[I 19:49:01.384 NotebookApp] Shutting down 1 kernel
+[I 19:49:01.388 NotebookApp] Kernel shutdown: 671c0d97-1e0d-478a-a0dc-8c16162257bd
+[I 19:49:01.917 NotebookApp] Shutting down 0 terminals
