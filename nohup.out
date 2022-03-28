@@ -252,3 +252,36 @@
 [I 18:51:03.355 NotebookApp] Saving file at /Forcasting.ipynb
 [I 18:53:03.374 NotebookApp] Saving file at /Forcasting.ipynb
 [I 18:55:03.418 NotebookApp] Saving file at /Forcasting.ipynb
+[I 18:56:36.445 NotebookApp] Starting buffering for 82f5c71f-edf7-4fd1-a7ce-5a69b1cd1c3c:566191fe7db94cc3863aa7dd3c312802
+[W 18:56:37.709 NotebookApp] Notebook Forcasting.ipynb is not trusted
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 075a759b-a798-49fe-8b45-b82a4d298549
+[I 18:57:40.212 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 18:58:36.550 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 18:58:39.283 NotebookApp] Saving file at /Forcasting.ipynb
+[W 18:58:39.284 NotebookApp] Notebook Forcasting.ipynb is not trusted
+[I 18:58:48.802 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 18:59:48.681 NotebookApp] Starting buffering for 82f5c71f-edf7-4fd1-a7ce-5a69b1cd1c3c:7594336d0d7946a68d10ff9e9b659580
+[I 20:44:12.645 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 20:45:46.145 NotebookApp] Kernel shutdown: 82f5c71f-edf7-4fd1-a7ce-5a69b1cd1c3c
+[W 20:46:03.870 NotebookApp] Notebook apartments/cleaningData.ipynb is not trusted
+[I 20:46:04.625 NotebookApp] Kernel started: fa9459c1-543f-4ea6-8d3e-e90c52716ed3, name: python3
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 113bfb31-bb1e-41d2-8f12-8125feb05850
+[I 20:48:11.843 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 20:50:11.876 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 20:52:11.900 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 20:54:11.921 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 20:54:57.649 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 20:56:11.934 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 21:00:11.905 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 21:01:43.305 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 21:10:07.722 NotebookApp] Starting buffering for fa9459c1-543f-4ea6-8d3e-e90c52716ed3:c8296c7fb3e54ee091a6eb82edc4e627
+[I 22:20:29.164 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 22:24:29.144 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 22:26:29.047 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 22:27:55.487 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 22:28:29.053 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 22:30:25.077 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 22:32:29.074 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 22:33:18.114 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
