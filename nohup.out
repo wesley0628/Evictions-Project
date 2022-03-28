@@ -494,3 +494,40 @@ KeyboardInterrupt
 [W 10:25:31.703 NotebookApp] 401 POST /login?next=%2Ftree%3F (127.0.0.1) 213.320000ms referer=http://127.0.0.1:2020/login?next=%2Ftree%3F
 [I 10:25:37.274 NotebookApp] 302 POST /login?next=%2Ftree%3F (127.0.0.1) 87.710000ms
 [I 10:27:06.313 NotebookApp] Saving file at /apartments/main.py
+[W 10:31:58.813 NotebookApp] Notebook apartments/apartment visualization.ipynb is not trusted
+[I 10:32:06.080 NotebookApp] Kernel started: a9901d97-7373-4d3a-8622-91f62cfb64ad, name: python3
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: a1ae6647-0b38-44f3-9267-0f0d2fb36db1
+[I 10:32:27.666 NotebookApp] Starting buffering for a9901d97-7373-4d3a-8622-91f62cfb64ad:b81d6e1151b448b98bf5e8cf948341c1
+[I 10:32:28.356 NotebookApp] Kernel restarted: a9901d97-7373-4d3a-8622-91f62cfb64ad
+[I 10:32:28.641 NotebookApp] Restoring connection for a9901d97-7373-4d3a-8622-91f62cfb64ad:b81d6e1151b448b98bf5e8cf948341c1
+[I 10:32:30.547 NotebookApp] Replaying 3 buffered messages
+[I 10:34:06.435 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 10:36:06.841 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 10:36:18.310 NotebookApp] Kernel interrupted: a9901d97-7373-4d3a-8622-91f62cfb64ad
+[I 10:38:07.392 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 10:40:07.463 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 10:42:07.416 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 10:42:57.834 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 10:44:07.416 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 10:46:08.582 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 10:48:09.570 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 10:50:10.379 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 10:52:10.394 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 10:54:10.311 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 10:56:10.309 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 10:58:11.127 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 11:00:11.087 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 11:02:11.023 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 11:04:11.422 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 11:04:57.205 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 11:06:11.566 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 11:14:14.023 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 12:10:45.571 NotebookApp] Starting buffering for a9901d97-7373-4d3a-8622-91f62cfb64ad:b81d6e1151b448b98bf5e8cf948341c1
+[I 12:10:49.253 NotebookApp] Kernel restarted: a9901d97-7373-4d3a-8622-91f62cfb64ad
+[I 12:10:49.498 NotebookApp] Restoring connection for a9901d97-7373-4d3a-8622-91f62cfb64ad:b81d6e1151b448b98bf5e8cf948341c1
+[W 12:10:54.048 NotebookApp] Nudge: attempt 10 on kernel a9901d97-7373-4d3a-8622-91f62cfb64ad
+[I 12:10:57.292 NotebookApp] Replaying 3 buffered messages
+[I 12:11:22.890 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 12:13:22.916 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 12:14:59.661 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
