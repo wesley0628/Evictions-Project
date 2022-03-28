@@ -531,3 +531,43 @@ KeyboardInterrupt
 [I 12:11:22.890 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
 [I 12:13:22.916 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
 [I 12:14:59.661 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 12:21:30.111 NotebookApp] Starting buffering for a9901d97-7373-4d3a-8622-91f62cfb64ad:b81d6e1151b448b98bf5e8cf948341c1
+[I 12:21:30.922 NotebookApp] Shutting down on /api/shutdown request.
+[I 12:21:31.215 NotebookApp] Shutting down 1 kernel
+[I 12:21:31.530 NotebookApp] Kernel shutdown: a9901d97-7373-4d3a-8622-91f62cfb64ad
+[I 12:21:35.472 NotebookApp] Shutting down 0 terminals
+[I 14:26:59.633 NotebookApp] Serving notebooks from local directory: /mnt/c/Users/Patron/Documents/GitHub/Evictions-Project
+[I 14:26:59.634 NotebookApp] Jupyter Notebook 6.4.10 is running at:
+[I 14:26:59.634 NotebookApp] http://LOAN-MEM-D030:2020/
+[I 14:26:59.634 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 14:27:01.968 NotebookApp] 302 GET / (127.0.0.1) 0.500000ms
+[W 14:28:08.783 NotebookApp] Notebook apartments/apartment visualization.ipynb is not trusted
+[I 14:28:15.126 NotebookApp] Kernel started: b607104b-c106-4dec-96ab-d54c1ecb02ee, name: python3
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 67fbb3b5-d1da-402b-93f4-4103fb7b2089
+[I 14:38:16.525 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[W 14:38:16.531 NotebookApp] Notebook apartments/apartment visualization.ipynb is not trusted
+[I 14:40:17.639 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[W 14:40:17.686 NotebookApp] Notebook apartments/apartment visualization.ipynb is not trusted
+[I 14:42:17.316 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[W 14:42:17.372 NotebookApp] Notebook apartments/apartment visualization.ipynb is not trusted
+[I 14:48:18.430 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[W 14:48:18.436 NotebookApp] Notebook apartments/apartment visualization.ipynb is not trusted
+[I 14:52:20.643 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[W 14:52:20.648 NotebookApp] Notebook apartments/apartment visualization.ipynb is not trusted
+[I 14:56:20.820 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[W 14:56:20.826 NotebookApp] Notebook apartments/apartment visualization.ipynb is not trusted
+[I 14:58:20.621 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[W 14:58:20.623 NotebookApp] Notebook apartments/apartment visualization.ipynb is not trusted
+[I 15:00:20.784 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[W 15:00:20.787 NotebookApp] Notebook apartments/apartment visualization.ipynb is not trusted
+[I 15:02:22.412 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[W 15:02:22.415 NotebookApp] Notebook apartments/apartment visualization.ipynb is not trusted
+[I 15:04:22.368 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[W 15:04:22.374 NotebookApp] Notebook apartments/apartment visualization.ipynb is not trusted
+[I 15:06:22.727 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[W 15:06:22.729 NotebookApp] Notebook apartments/apartment visualization.ipynb is not trusted
+[I 15:10:22.494 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[W 15:10:22.498 NotebookApp] Notebook apartments/apartment visualization.ipynb is not trusted
+[I 15:16:04.125 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[W 15:16:04.130 NotebookApp] Notebook apartments/apartment visualization.ipynb is not trusted
