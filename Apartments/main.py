@@ -60,4 +60,3 @@ if __name__ == '__main__':
     pd.Series(skipList).to_csv('skipList.csv', index = False)
     print('Skip counts:', len(skipList))
     print('Error counts:', errorCount)
-    
