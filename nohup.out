@@ -784,3 +784,10 @@ KeyboardInterrupt
 [I 11:32:49.356 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
 [I 11:34:49.331 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
 [I 11:35:26.142 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 11:39:09.583 NotebookApp] Starting buffering for 2e2fd980-9399-4f61-ae6b-2514579cf45f:3d3d8e2601c74421b8b10057bab450ab
+[I 11:39:15.423 NotebookApp] Kernel shutdown: 5d0e1a4a-5061-4b90-a6b0-6af764d304b1
+[I 11:39:16.306 NotebookApp] Kernel shutdown: 2e2fd980-9399-4f61-ae6b-2514579cf45f
+[I 11:39:27.874 NotebookApp] Creating new notebook in /apartments
+[I 11:39:30.042 NotebookApp] Kernel started: 9ae39b21-5e9c-40af-a9ad-4b64b64922c0, name: python3
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: d28d08fd-47f5-45b3-a42e-f1b001687f48
