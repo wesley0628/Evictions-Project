@@ -669,3 +669,118 @@ KeyboardInterrupt
 [I 10:44:46.170 NotebookApp] Shutting down 1 kernel
 [I 10:44:46.221 NotebookApp] Kernel shutdown: 95490b36-4a4b-41b3-869b-01dd5f9d71f9
 [I 10:44:48.945 NotebookApp] Shutting down 0 terminals
+[I 23:24:12.174 NotebookApp] Serving notebooks from local directory: /mnt/c/Users/Patron/Documents/GitHub/Evictions-Project
+[I 23:24:12.178 NotebookApp] Jupyter Notebook 6.4.10 is running at:
+[I 23:24:12.178 NotebookApp] http://LOAN-MEM-D030:2020/
+[I 23:24:12.178 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 23:24:15.381 NotebookApp] 302 GET / (127.0.0.1) 7.000000ms
+[W 01:31:17.031 NotebookApp] Notebook apartments/apartment visualization.ipynb is not trusted
+[I 01:31:19.162 NotebookApp] Kernel started: 4bd8169d-7993-4401-9f06-5464f9a4299b, name: python3
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 7cbd5851-e04c-4c48-b4a6-bb835c9a606e
+[I 08:21:31.588 NotebookApp] Shutting down on /api/shutdown request.
+[I 08:21:31.666 NotebookApp] Shutting down 1 kernel
+[I 08:21:31.709 NotebookApp] Kernel shutdown: 4bd8169d-7993-4401-9f06-5464f9a4299b
+[I 08:21:32.201 NotebookApp] Starting buffering for 4bd8169d-7993-4401-9f06-5464f9a4299b:987e0cfec60442c78f55c2187dca82d5
+[I 08:21:32.235 NotebookApp] Kernel shutdown: 4bd8169d-7993-4401-9f06-5464f9a4299b
+[E 08:21:32.236 NotebookApp] Uncaught exception DELETE /api/sessions/93f90904-125b-4f16-a4d3-72064dc58c1c (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='127.0.0.1:2020', method='DELETE', uri='/api/sessions/93f90904-125b-4f16-a4d3-72064dc58c1c', version='HTTP/1.1', remote_ip='127.0.0.1')
+    Traceback (most recent call last):
+      File "/home/aaron/.local/lib/python3.8/site-packages/tornado/web.py", line 1704, in _execute
+        result = await result
+      File "/home/aaron/.local/lib/python3.8/site-packages/tornado/gen.py", line 769, in run
+        yielded = self.gen.throw(*exc_info)  # type: ignore
+      File "/home/aaron/.local/lib/python3.8/site-packages/notebook/services/sessions/handlers.py", line 162, in delete
+        yield maybe_future(sm.delete_session(session_id))
+      File "/home/aaron/.local/lib/python3.8/site-packages/tornado/gen.py", line 762, in run
+        value = future.result()
+      File "/home/aaron/.local/lib/python3.8/site-packages/tornado/gen.py", line 775, in run
+        yielded = self.gen.send(value)
+      File "/home/aaron/.local/lib/python3.8/site-packages/notebook/services/sessions/sessionmanager.py", line 287, in delete_session
+        yield maybe_future(self.kernel_manager.shutdown_kernel(session['kernel']['id']))
+      File "/home/aaron/.local/lib/python3.8/site-packages/notebook/services/kernels/kernelmanager.py", line 304, in shutdown_kernel
+        self.pinned_superclass.shutdown_kernel(self, kernel_id, now=now, restart=restart)
+      File "/home/aaron/.local/lib/python3.8/site-packages/jupyter_client/utils.py", line 26, in wrapped
+        raise e
+      File "/home/aaron/.local/lib/python3.8/site-packages/jupyter_client/utils.py", line 23, in wrapped
+        return loop.run_until_complete(future)
+      File "/home/aaron/.local/lib/python3.8/site-packages/nest_asyncio.py", line 81, in run_until_complete
+        return f.result()
+      File "/usr/lib/python3.8/asyncio/futures.py", line 178, in result
+        raise self._exception
+      File "/usr/lib/python3.8/asyncio/tasks.py", line 280, in __step
+        result = coro.send(None)
+      File "/home/aaron/.local/lib/python3.8/site-packages/jupyter_client/multikernelmanager.py", line 274, in _async_shutdown_kernel
+        if km.ready.exception():
+    asyncio.exceptions.InvalidStateError: Exception is not set.
+[W 08:21:32.292 NotebookApp] Unhandled error
+[E 08:21:32.294 NotebookApp] {
+      "Host": "127.0.0.1:2020",
+      "Accept": "application/json, text/javascript, */*; q=0.01",
+      "Referer": "http://127.0.0.1:2020/notebooks/apartments/apartment%20visualization.ipynb",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:98.0) Gecko/20100101 Firefox/98.0"
+    }
+[E 08:21:32.295 NotebookApp] 500 DELETE /api/sessions/93f90904-125b-4f16-a4d3-72064dc58c1c (127.0.0.1) 61.920000ms referer=http://127.0.0.1:2020/notebooks/apartments/apartment%20visualization.ipynb
+[I 08:21:32.413 NotebookApp] Shutting down 0 terminals
+[I 09:55:59.154 NotebookApp] Serving notebooks from local directory: /mnt/c/Users/Patron/Documents/GitHub/Evictions-Project
+[I 09:55:59.155 NotebookApp] Jupyter Notebook 6.4.10 is running at:
+[I 09:55:59.156 NotebookApp] http://LOAN-MEM-D030:2020/
+[I 09:55:59.157 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 09:56:00.230 NotebookApp] 302 GET / (127.0.0.1) 0.530000ms
+[W 10:14:32.374 NotebookApp] Notebook apartments/apartment visualization.ipynb is not trusted
+[I 10:14:33.978 NotebookApp] Kernel started: 9ee18ac6-1115-44d1-a913-cc91a815cdaf, name: python3
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: d358ca23-bbb0-44ae-acc1-123505f807c1
+[I 10:51:58.674 NotebookApp] Starting buffering for 9ee18ac6-1115-44d1-a913-cc91a815cdaf:e3c5bd7ddec24a5488cbedd8bbfb6ba5
+[I 10:52:00.009 NotebookApp] Kernel restarted: 9ee18ac6-1115-44d1-a913-cc91a815cdaf
+[I 10:52:00.058 NotebookApp] Restoring connection for 9ee18ac6-1115-44d1-a913-cc91a815cdaf:e3c5bd7ddec24a5488cbedd8bbfb6ba5
+[I 10:52:01.071 NotebookApp] Replaying 109 buffered messages
+[I 10:52:03.823 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 10:52:45.135 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 10:52:53.134 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 10:54:45.991 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 10:56:46.052 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[W 10:58:45.308 NotebookApp] Notebook apartments/cleaningData.ipynb is not trusted
+[I 10:58:45.874 NotebookApp] Kernel started: 5d0e1a4a-5061-4b90-a6b0-6af764d304b1, name: python3
+[I 10:58:46.101 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 39e0fe7e-5915-4b95-9ddd-2e2056bc4273
+[I 11:00:46.876 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 11:02:47.375 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 11:04:47.410 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 11:06:47.751 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 11:06:51.951 NotebookApp] Starting buffering for 5d0e1a4a-5061-4b90-a6b0-6af764d304b1:178c6882a0274302849d8e78fcc34a08
+[I 11:06:52.618 NotebookApp] Kernel restarted: 5d0e1a4a-5061-4b90-a6b0-6af764d304b1
+[I 11:06:52.665 NotebookApp] Restoring connection for 5d0e1a4a-5061-4b90-a6b0-6af764d304b1:178c6882a0274302849d8e78fcc34a08
+[I 11:06:53.688 NotebookApp] Replaying 3 buffered messages
+[I 11:08:47.145 NotebookApp] Saving file at /apartments/cleaningData.ipynb
+[W 11:08:57.728 NotebookApp] Notebook apartments/webScrape.ipynb is not trusted
+[I 11:08:58.411 NotebookApp] Kernel started: 2e2fd980-9399-4f61-ae6b-2514579cf45f, name: python3
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 7c9b6779-b71a-44bd-a6a9-6712a61dffaf
+[I 11:09:36.596 NotebookApp] Saving file at /apartments/cleaningData.ipynb
+[I 11:09:37.390 NotebookApp] Starting buffering for 5d0e1a4a-5061-4b90-a6b0-6af764d304b1:178c6882a0274302849d8e78fcc34a08
+[I 11:10:58.676 NotebookApp] Saving file at /apartments/webScrape.ipynb
+[W 11:10:58.677 NotebookApp] Notebook apartments/webScrape.ipynb is not trusted
+[I 11:15:09.750 NotebookApp] Starting buffering for 9ee18ac6-1115-44d1-a913-cc91a815cdaf:e3c5bd7ddec24a5488cbedd8bbfb6ba5
+[I 11:15:13.140 NotebookApp] Kernel restarted: 9ee18ac6-1115-44d1-a913-cc91a815cdaf
+[I 11:15:13.190 NotebookApp] Restoring connection for 9ee18ac6-1115-44d1-a913-cc91a815cdaf:e3c5bd7ddec24a5488cbedd8bbfb6ba5
+[I 11:15:14.212 NotebookApp] Replaying 3 buffered messages
+[I 11:15:15.360 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 11:16:49.120 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 11:18:49.072 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 11:19:35.122 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 11:20:49.172 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 11:22:49.124 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 11:23:30.807 NotebookApp] Starting buffering for 9ee18ac6-1115-44d1-a913-cc91a815cdaf:e3c5bd7ddec24a5488cbedd8bbfb6ba5
+[I 11:23:33.165 NotebookApp] Kernel restarted: 9ee18ac6-1115-44d1-a913-cc91a815cdaf
+[I 11:23:33.181 NotebookApp] Restoring connection for 9ee18ac6-1115-44d1-a913-cc91a815cdaf:e3c5bd7ddec24a5488cbedd8bbfb6ba5
+[I 11:23:34.214 NotebookApp] Replaying 3 buffered messages
+[I 11:24:49.241 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 11:26:15.060 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 11:26:49.237 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 11:28:49.247 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 11:30:49.305 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 11:32:49.356 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 11:34:49.331 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 11:35:26.142 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
