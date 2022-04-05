@@ -791,3 +791,183 @@ KeyboardInterrupt
 [I 11:39:30.042 NotebookApp] Kernel started: 9ae39b21-5e9c-40af-a9ad-4b64b64922c0, name: python3
 [IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
 [IPKernelApp] WARNING | No such comm: d28d08fd-47f5-45b3-a42e-f1b001687f48
+[I 11:41:30.634 NotebookApp] Saving file at /apartments/densityOfAddressesByDistrict.ipynb
+[I 14:38:32.065 NotebookApp] Starting buffering for 9ee18ac6-1115-44d1-a913-cc91a815cdaf:e3c5bd7ddec24a5488cbedd8bbfb6ba5
+[I 14:38:34.879 NotebookApp] Kernel restarted: 9ee18ac6-1115-44d1-a913-cc91a815cdaf
+[I 14:38:34.953 NotebookApp] Restoring connection for 9ee18ac6-1115-44d1-a913-cc91a815cdaf:e3c5bd7ddec24a5488cbedd8bbfb6ba5
+[I 14:38:36.921 NotebookApp] Replaying 3 buffered messages
+[I 14:39:28.587 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[W 14:49:01.089 NotebookApp] Notebook apartments/cleaningData.ipynb is not trusted
+[I 14:49:01.859 NotebookApp] Kernel started: d8ceabce-408e-4c81-994e-c4815d4fc033, name: python3
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 9d7c13f3-e068-46eb-8ce6-8a91f4837bac
+[I 14:49:12.288 NotebookApp] Starting buffering for d8ceabce-408e-4c81-994e-c4815d4fc033:3c419b10381b47c99e6d3261b9190b65
+[I 14:49:12.664 NotebookApp] Kernel restarted: d8ceabce-408e-4c81-994e-c4815d4fc033
+[I 14:49:12.818 NotebookApp] Restoring connection for d8ceabce-408e-4c81-994e-c4815d4fc033:3c419b10381b47c99e6d3261b9190b65
+[I 14:49:14.576 NotebookApp] Replaying 3 buffered messages
+[I 14:49:58.604 NotebookApp] Saving file at /apartments/cleaningData.ipynb
+[I 14:49:59.448 NotebookApp] Saving file at /apartments/cleaningData.ipynb
+[I 14:50:01.316 NotebookApp] Starting buffering for d8ceabce-408e-4c81-994e-c4815d4fc033:3c419b10381b47c99e6d3261b9190b65
+[I 14:51:31.069 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 14:52:45.364 NotebookApp] The port 2020 is already in use, trying another port.
+[I 14:52:45.365 NotebookApp] Serving notebooks from local directory: /mnt/c/Users/Patron/Documents/GitHub/Evictions-Project
+[I 14:52:45.365 NotebookApp] Jupyter Notebook 6.4.10 is running at:
+[I 14:52:45.366 NotebookApp] http://LOAN-MEM-D030:2021/
+[I 14:52:45.366 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 14:52:47.436 NotebookApp] Saving file at /apartments/densityOfAddressesByDistrict.ipynb
+[I 14:52:49.095 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 14:53:14.171 NotebookApp] Saving file at /apartments/densityOfAddressesByDistrict.ipynb
+[I 14:53:15.284 NotebookApp] Starting buffering for 9ae39b21-5e9c-40af-a9ad-4b64b64922c0:179a211eca7f49bc86a48a9b44f303ac
+[I 14:53:15.885 NotebookApp] Starting buffering for 9ee18ac6-1115-44d1-a913-cc91a815cdaf:e3c5bd7ddec24a5488cbedd8bbfb6ba5
+[I 14:53:17.827 NotebookApp] Shutting down on /api/shutdown request.
+[I 14:53:17.846 NotebookApp] Shutting down 3 kernels
+[I 14:53:17.878 NotebookApp] Kernel shutdown: d8ceabce-408e-4c81-994e-c4815d4fc033
+[I 14:53:17.880 NotebookApp] Kernel shutdown: 9ee18ac6-1115-44d1-a913-cc91a815cdaf
+[I 14:53:17.883 NotebookApp] Kernel shutdown: 9ae39b21-5e9c-40af-a9ad-4b64b64922c0
+[I 14:53:19.848 NotebookApp] Shutting down 0 terminals
+[I 14:53:32.100 NotebookApp] Interrupted...
+[I 14:53:32.103 NotebookApp] Shutting down 0 kernels
+[I 14:53:32.105 NotebookApp] Shutting down 0 terminals
+[I 14:53:35.062 NotebookApp] Serving notebooks from local directory: /mnt/c/Users/Patron/Documents/GitHub/Evictions-Project
+[I 14:53:35.062 NotebookApp] Jupyter Notebook 6.4.10 is running at:
+[I 14:53:35.063 NotebookApp] http://LOAN-MEM-D030:2020/
+[I 14:53:35.063 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 14:53:35.502 NotebookApp] 302 GET / (127.0.0.1) 2.240000ms
+[W 14:53:55.872 NotebookApp] Notebook apartments/densityOfAddressesByDistrict.ipynb is not trusted
+[I 14:53:56.106 NotebookApp] Kernel started: b5624107-62ae-4fc0-9281-76e0139393d2, name: python3
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 341003e3-4cb9-4a8b-a249-b7028e48525b
+[I 15:07:58.890 NotebookApp] Saving file at /apartments/densityOfAddressesByDistrict.ipynb
+[I 15:08:04.497 NotebookApp] Saving file at /apartments/densityOfAddressesByDistrict.ipynb
+[W 15:10:52.002 NotebookApp] Notebook apartments/apartment visualization.ipynb is not trusted
+[I 15:10:58.805 NotebookApp] Kernel started: c8131096-2b8b-4b3c-a52b-6d52cb9280ec, name: python3
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 29ee14c4-7b19-4839-a846-658195abe477
+[I 15:14:25.742 NotebookApp] Starting buffering for c8131096-2b8b-4b3c-a52b-6d52cb9280ec:606a226d3ff94f22926a9d5902438d8d
+[I 15:16:02.573 NotebookApp] Saving file at /apartments/densityOfAddressesByDistrict.ipynb
+[I 15:18:03.043 NotebookApp] Saving file at /apartments/densityOfAddressesByDistrict.ipynb
+[I 15:20:03.529 NotebookApp] Saving file at /apartments/densityOfAddressesByDistrict.ipynb
+[W 15:50:45.009 NotebookApp] Notebook apartments/webScrape.ipynb is not trusted
+[I 15:50:45.646 NotebookApp] Kernel started: 52434c97-6ec9-4f41-b3cb-fc3ec08c9822, name: python3
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 4ecfb7fc-1267-456c-bdc9-bd7d283cc074
+[I 15:51:26.740 NotebookApp] Starting buffering for 52434c97-6ec9-4f41-b3cb-fc3ec08c9822:29b8e2ebd19a4a8caca9d712efb84b79
+[I 15:51:26.983 NotebookApp] Kernel restarted: 52434c97-6ec9-4f41-b3cb-fc3ec08c9822
+[I 15:51:27.029 NotebookApp] Restoring connection for 52434c97-6ec9-4f41-b3cb-fc3ec08c9822:29b8e2ebd19a4a8caca9d712efb84b79
+[I 15:51:27.643 NotebookApp] Replaying 3 buffered messages
+[I 15:52:45.621 NotebookApp] Saving file at /apartments/webScrape.ipynb
+[I 15:56:45.750 NotebookApp] Saving file at /apartments/webScrape.ipynb
+[I 15:58:46.347 NotebookApp] Saving file at /apartments/webScrape.ipynb
+[I 16:02:47.198 NotebookApp] Saving file at /apartments/webScrape.ipynb
+[I 16:04:25.599 NotebookApp] Saving file at /apartments/webScrape.ipynb
+[I 16:04:43.426 NotebookApp] Saving file at /apartments/main.py
+[I 16:05:17.068 NotebookApp] Saving file at /apartments/webScrape.ipynb
+[I 16:14:50.966 NotebookApp] Saving file at /apartments/webScrape.ipynb
+[I 16:15:35.029 NotebookApp] Starting buffering for 52434c97-6ec9-4f41-b3cb-fc3ec08c9822:29b8e2ebd19a4a8caca9d712efb84b79
+[I 16:15:35.676 NotebookApp] Kernel restarted: 52434c97-6ec9-4f41-b3cb-fc3ec08c9822
+[I 16:15:35.703 NotebookApp] Restoring connection for 52434c97-6ec9-4f41-b3cb-fc3ec08c9822:29b8e2ebd19a4a8caca9d712efb84b79
+[I 16:15:36.497 NotebookApp] Replaying 3 buffered messages
+[I 16:16:03.000 NotebookApp] Starting buffering for 52434c97-6ec9-4f41-b3cb-fc3ec08c9822:29b8e2ebd19a4a8caca9d712efb84b79
+[I 16:16:03.346 NotebookApp] Kernel restarted: 52434c97-6ec9-4f41-b3cb-fc3ec08c9822
+[I 16:16:03.389 NotebookApp] Restoring connection for 52434c97-6ec9-4f41-b3cb-fc3ec08c9822:29b8e2ebd19a4a8caca9d712efb84b79
+[I 16:16:04.049 NotebookApp] Replaying 3 buffered messages
+[I 16:16:50.971 NotebookApp] Saving file at /apartments/webScrape.ipynb
+[I 16:17:44.894 NotebookApp] Saving file at /apartments/main.py
+[I 16:18:16.378 NotebookApp] Saving file at /apartments/main.py
+[I 16:22:15.955 NotebookApp] Saving file at /apartments/main.py
+[I 21:17:33.849 NotebookApp] Starting buffering for 52434c97-6ec9-4f41-b3cb-fc3ec08c9822:29b8e2ebd19a4a8caca9d712efb84b79
+[I 21:21:53.736 NotebookApp] Saving file at /apartments/densityOfAddressesByDistrict.ipynb
+[W 21:23:28.107 NotebookApp] Notebook apartments/apartment visualization.ipynb is not trusted
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 9c78366e-9b48-4a66-942c-6ea8aa96fdf4
+[I 21:23:53.968 NotebookApp] Saving file at /apartments/densityOfAddressesByDistrict.ipynb
+[I 21:25:53.928 NotebookApp] Saving file at /apartments/densityOfAddressesByDistrict.ipynb
+[I 21:27:53.932 NotebookApp] Saving file at /apartments/densityOfAddressesByDistrict.ipynb
+[I 21:29:53.936 NotebookApp] Saving file at /apartments/densityOfAddressesByDistrict.ipynb
+[I 21:29:57.669 NotebookApp] Starting buffering for b5624107-62ae-4fc0-9281-76e0139393d2:a4e375741183476888db0f7375e6b9ea
+[I 21:29:59.556 NotebookApp] Kernel restarted: b5624107-62ae-4fc0-9281-76e0139393d2
+[I 21:29:59.581 NotebookApp] Restoring connection for b5624107-62ae-4fc0-9281-76e0139393d2:a4e375741183476888db0f7375e6b9ea
+[I 21:30:00.428 NotebookApp] Replaying 3 buffered messages
+[I 21:30:46.284 NotebookApp] Starting buffering for b5624107-62ae-4fc0-9281-76e0139393d2:a4e375741183476888db0f7375e6b9ea
+[I 21:30:47.053 NotebookApp] Kernel restarted: b5624107-62ae-4fc0-9281-76e0139393d2
+[I 21:30:47.073 NotebookApp] Restoring connection for b5624107-62ae-4fc0-9281-76e0139393d2:a4e375741183476888db0f7375e6b9ea
+[I 21:30:47.669 NotebookApp] Replaying 3 buffered messages
+[I 21:31:08.901 NotebookApp] Starting buffering for b5624107-62ae-4fc0-9281-76e0139393d2:a4e375741183476888db0f7375e6b9ea
+[I 21:31:09.652 NotebookApp] Kernel restarted: b5624107-62ae-4fc0-9281-76e0139393d2
+[I 21:31:09.675 NotebookApp] Restoring connection for b5624107-62ae-4fc0-9281-76e0139393d2:a4e375741183476888db0f7375e6b9ea
+[I 21:31:10.300 NotebookApp] Replaying 3 buffered messages
+[I 21:31:27.284 NotebookApp] Starting buffering for b5624107-62ae-4fc0-9281-76e0139393d2:a4e375741183476888db0f7375e6b9ea
+[I 21:31:27.639 NotebookApp] Kernel restarted: b5624107-62ae-4fc0-9281-76e0139393d2
+[I 21:31:27.667 NotebookApp] Restoring connection for b5624107-62ae-4fc0-9281-76e0139393d2:a4e375741183476888db0f7375e6b9ea
+[I 21:31:28.252 NotebookApp] Replaying 3 buffered messages
+[I 21:31:53.944 NotebookApp] Saving file at /apartments/densityOfAddressesByDistrict.ipynb
+[I 21:32:09.228 NotebookApp] Starting buffering for b5624107-62ae-4fc0-9281-76e0139393d2:a4e375741183476888db0f7375e6b9ea
+[I 21:32:09.971 NotebookApp] Kernel restarted: b5624107-62ae-4fc0-9281-76e0139393d2
+[I 21:32:09.992 NotebookApp] Restoring connection for b5624107-62ae-4fc0-9281-76e0139393d2:a4e375741183476888db0f7375e6b9ea
+[I 21:32:10.561 NotebookApp] Replaying 3 buffered messages
+[I 21:32:46.223 NotebookApp] Saving file at /apartments/densityOfAddressesByDistrict.ipynb
+[I 21:32:51.804 NotebookApp] Starting buffering for b5624107-62ae-4fc0-9281-76e0139393d2:a4e375741183476888db0f7375e6b9ea
+[I 21:32:52.556 NotebookApp] Kernel restarted: b5624107-62ae-4fc0-9281-76e0139393d2
+[I 21:32:52.573 NotebookApp] Restoring connection for b5624107-62ae-4fc0-9281-76e0139393d2:a4e375741183476888db0f7375e6b9ea
+[I 21:32:53.583 NotebookApp] Replaying 3 buffered messages
+[I 21:33:54.008 NotebookApp] Saving file at /apartments/densityOfAddressesByDistrict.ipynb
+[I 21:34:57.847 NotebookApp] Saving file at /apartments/densityOfAddressesByDistrict.ipynb
+[I 21:35:54.037 NotebookApp] Saving file at /apartments/densityOfAddressesByDistrict.ipynb
+[I 21:36:40.335 NotebookApp] Starting buffering for c8131096-2b8b-4b3c-a52b-6d52cb9280ec:fec7fb92877b424e8ba6e10d8c775a33
+[I 21:37:53.960 NotebookApp] Saving file at /apartments/densityOfAddressesByDistrict.ipynb
+[I 21:43:53.981 NotebookApp] Saving file at /apartments/densityOfAddressesByDistrict.ipynb
+[I 21:45:54.009 NotebookApp] Saving file at /apartments/densityOfAddressesByDistrict.ipynb
+[I 21:47:54.002 NotebookApp] Saving file at /apartments/densityOfAddressesByDistrict.ipynb
+[I 21:49:54.016 NotebookApp] Saving file at /apartments/densityOfAddressesByDistrict.ipynb
+[I 21:51:54.012 NotebookApp] Saving file at /apartments/densityOfAddressesByDistrict.ipynb
+[W 21:57:19.250 NotebookApp] Notebook apartments/apartment visualization.ipynb is not trusted
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 754fa65e-2c32-4ff4-a50d-89d707bfd9b7
+[I 22:01:55.159 NotebookApp] Saving file at /apartments/densityOfAddressesByDistrict.ipynb
+[I 22:03:55.997 NotebookApp] Saving file at /apartments/densityOfAddressesByDistrict.ipynb
+[I 22:05:56.037 NotebookApp] Saving file at /apartments/densityOfAddressesByDistrict.ipynb
+[I 22:07:55.992 NotebookApp] Saving file at /apartments/densityOfAddressesByDistrict.ipynb
+[I 22:08:34.894 NotebookApp] Starting buffering for b5624107-62ae-4fc0-9281-76e0139393d2:a4e375741183476888db0f7375e6b9ea
+[I 22:08:36.162 NotebookApp] Kernel restarted: b5624107-62ae-4fc0-9281-76e0139393d2
+[I 22:08:36.181 NotebookApp] Restoring connection for b5624107-62ae-4fc0-9281-76e0139393d2:a4e375741183476888db0f7375e6b9ea
+[I 22:08:36.896 NotebookApp] Replaying 3 buffered messages
+[I 22:09:08.445 NotebookApp] Starting buffering for b5624107-62ae-4fc0-9281-76e0139393d2:a4e375741183476888db0f7375e6b9ea
+[I 22:09:08.888 NotebookApp] Kernel restarted: b5624107-62ae-4fc0-9281-76e0139393d2
+[I 22:09:08.904 NotebookApp] Restoring connection for b5624107-62ae-4fc0-9281-76e0139393d2:a4e375741183476888db0f7375e6b9ea
+[I 22:09:09.461 NotebookApp] Replaying 3 buffered messages
+[I 22:09:56.003 NotebookApp] Saving file at /apartments/densityOfAddressesByDistrict.ipynb
+[I 22:10:26.205 NotebookApp] Starting buffering for b5624107-62ae-4fc0-9281-76e0139393d2:a4e375741183476888db0f7375e6b9ea
+[I 22:10:26.772 NotebookApp] Kernel restarted: b5624107-62ae-4fc0-9281-76e0139393d2
+[I 22:10:26.791 NotebookApp] Restoring connection for b5624107-62ae-4fc0-9281-76e0139393d2:a4e375741183476888db0f7375e6b9ea
+[I 22:10:27.461 NotebookApp] Replaying 3 buffered messages
+[I 22:11:56.018 NotebookApp] Saving file at /apartments/densityOfAddressesByDistrict.ipynb
+[I 22:13:56.029 NotebookApp] Saving file at /apartments/densityOfAddressesByDistrict.ipynb
+[I 22:17:02.166 NotebookApp] Saving file at /apartments/densityOfAddressesByDistrict.ipynb
+[I 22:17:03.904 NotebookApp] Starting buffering for b5624107-62ae-4fc0-9281-76e0139393d2:a4e375741183476888db0f7375e6b9ea
+[I 22:17:04.850 NotebookApp] Kernel restarted: b5624107-62ae-4fc0-9281-76e0139393d2
+[I 22:17:04.866 NotebookApp] Restoring connection for b5624107-62ae-4fc0-9281-76e0139393d2:a4e375741183476888db0f7375e6b9ea
+[I 22:17:05.406 NotebookApp] Replaying 3 buffered messages
+[I 22:17:56.064 NotebookApp] Saving file at /apartments/densityOfAddressesByDistrict.ipynb
+[I 22:18:38.630 NotebookApp] Starting buffering for b5624107-62ae-4fc0-9281-76e0139393d2:a4e375741183476888db0f7375e6b9ea
+[I 22:18:39.266 NotebookApp] Kernel restarted: b5624107-62ae-4fc0-9281-76e0139393d2
+[I 22:18:39.287 NotebookApp] Restoring connection for b5624107-62ae-4fc0-9281-76e0139393d2:a4e375741183476888db0f7375e6b9ea
+[I 22:18:40.304 NotebookApp] Replaying 3 buffered messages
+[I 22:19:56.757 NotebookApp] Saving file at /apartments/densityOfAddressesByDistrict.ipynb
+[I 22:21:57.471 NotebookApp] Saving file at /apartments/densityOfAddressesByDistrict.ipynb
+[W 22:22:35.538 NotebookApp] Notebook Forcasting.ipynb is not trusted
+[I 22:22:37.374 NotebookApp] Kernel started: ada7c627-9f86-4045-8f4a-465edb5a45d9, name: python3
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: abf0066a-9653-4fe5-9d22-af54b9c9df17
+[I 22:24:37.390 NotebookApp] Saving file at /Forcasting.ipynb
+[W 22:24:37.391 NotebookApp] Notebook Forcasting.ipynb is not trusted
+[I 22:25:58.841 NotebookApp] Saving file at /apartments/densityOfAddressesByDistrict.ipynb
+[I 22:29:59.718 NotebookApp] Saving file at /apartments/densityOfAddressesByDistrict.ipynb
+[I 22:32:00.181 NotebookApp] Saving file at /apartments/densityOfAddressesByDistrict.ipynb
+[I 22:34:00.123 NotebookApp] Saving file at /apartments/densityOfAddressesByDistrict.ipynb
+[I 22:36:01.096 NotebookApp] Saving file at /apartments/densityOfAddressesByDistrict.ipynb
+[I 22:37:45.252 NotebookApp] Starting buffering for b5624107-62ae-4fc0-9281-76e0139393d2:a4e375741183476888db0f7375e6b9ea
+[I 22:37:46.190 NotebookApp] Kernel restarted: b5624107-62ae-4fc0-9281-76e0139393d2
+[I 22:37:46.207 NotebookApp] Restoring connection for b5624107-62ae-4fc0-9281-76e0139393d2:a4e375741183476888db0f7375e6b9ea
+[I 22:37:47.224 NotebookApp] Replaying 3 buffered messages
+[I 22:38:01.266 NotebookApp] Saving file at /apartments/densityOfAddressesByDistrict.ipynb
+[I 23:02:34.885 NotebookApp] Saving file at /apartments/densityOfAddressesByDistrict.ipynb

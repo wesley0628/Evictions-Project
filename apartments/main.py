@@ -23,14 +23,15 @@ def webScrape(parcel):
 
     address = find_el[1].text[companyAddressStart+5:-10]
     address = address.strip()
-    
-    aldermanic = find_el[4].text[42:44]
+
+    index = find_el[4].text.find(':')
+    aldermanic = find_el[4].text[index+2:index+4]
     aldermanic = aldermanic.strip()
     
     return company, address, aldermanic
 
 if __name__ == '__main__':
-    table = pd.read_csv("cleardata.csv")
+    table = pd.read_csv("cleandata.csv")
     
     for i, j in zip(tqdm (range (len(table['Parcel'])), desc="Loading...", ascii=False, ncols=80), table['Parcel']):
         try:
@@ -54,7 +55,7 @@ if __name__ == '__main__':
             "Aldermanic District": pd.Series(aldermanicList)}
     
     df = pd.concat(data, axis = 1)
-    df.to_csv('table.csv', index = False)
+    df.to_csv('tax_Address.csv', index = False)
     if errorCount != 0:
         pd.Series(errorList).to_csv('errorList.csv', index = False)
     pd.Series(skipList).to_csv('skipList.csv', index = False)
