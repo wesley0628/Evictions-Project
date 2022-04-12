@@ -1347,3 +1347,22 @@ KeyboardInterrupt
 [I 23:57:46.356 NotebookApp] Shutting down 1 kernel
 [I 23:57:46.397 NotebookApp] Kernel shutdown: cbd5e028-e704-4e5a-9161-c9214e8763ea
 [I 23:57:47.752 NotebookApp] Shutting down 0 terminals
+[I 07:59:36.628 NotebookApp] Serving notebooks from local directory: /mnt/c/Users/Patron/Documents/GitHub/Evictions-Project
+[I 07:59:36.629 NotebookApp] Jupyter Notebook 6.4.10 is running at:
+[I 07:59:36.629 NotebookApp] http://LOAN-MEM-D030:2020/
+[I 07:59:36.629 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 07:59:38.008 NotebookApp] 302 GET / (127.0.0.1) 1.730000ms
+[W 07:59:53.532 NotebookApp] Notebook apartments/apartment visualization.ipynb is not trusted
+[I 07:59:55.967 NotebookApp] Kernel started: af5040e8-008f-433d-803a-bb3436dc7ca6, name: python3
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 57ba20af-82ab-4279-8521-69eecf46b25c
+[I 08:04:43.815 NotebookApp] Kernel started: 8b715a5a-b54f-4cba-9e7f-5adcf88ee658, name: python3
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 9aa6be97-f83f-46ef-a642-3259204426aa
+[I 08:05:47.918 NotebookApp] Starting buffering for 8b715a5a-b54f-4cba-9e7f-5adcf88ee658:63047ae8ea204f5c8066013407d5fc93
+[I 08:05:48.286 NotebookApp] Kernel restarted: 8b715a5a-b54f-4cba-9e7f-5adcf88ee658
+[I 08:05:48.344 NotebookApp] Restoring connection for 8b715a5a-b54f-4cba-9e7f-5adcf88ee658:63047ae8ea204f5c8066013407d5fc93
+[I 08:05:48.862 NotebookApp] Replaying 3 buffered messages
+[I 08:06:43.370 NotebookApp] Saving file at /apartments/densityOfAddressesByDistrict.ipynb
+[I 08:08:43.865 NotebookApp] Saving file at /apartments/densityOfAddressesByDistrict.ipynb
+[I 08:28:15.699 NotebookApp] Saving file at /apartments/densityOfAddressesByDistrict.ipynb
