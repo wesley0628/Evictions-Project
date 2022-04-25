@@ -1378,3 +1378,274 @@ KeyboardInterrupt
 [I 08:41:59.412 NotebookApp] Saving file at /apartments/densityOfAddressesByDistrict.ipynb
 [I 08:44:00.407 NotebookApp] Saving file at /apartments/densityOfAddressesByDistrict.ipynb
 [I 08:48:00.216 NotebookApp] Saving file at /apartments/densityOfAddressesByDistrict.ipynb
+[I 11:26:42.471 NotebookApp] Starting buffering for af5040e8-008f-433d-803a-bb3436dc7ca6:37732c7a96294a44886e4729ecb1aede
+[I 11:26:42.879 NotebookApp] Starting buffering for 8b715a5a-b54f-4cba-9e7f-5adcf88ee658:63047ae8ea204f5c8066013407d5fc93
+[I 11:26:45.013 NotebookApp] Shutting down on /api/shutdown request.
+[I 11:26:45.076 NotebookApp] Shutting down 2 kernels
+[I 11:26:45.123 NotebookApp] Kernel shutdown: af5040e8-008f-433d-803a-bb3436dc7ca6
+[I 11:26:45.135 NotebookApp] Kernel shutdown: 8b715a5a-b54f-4cba-9e7f-5adcf88ee658
+[I 11:26:49.239 NotebookApp] Shutting down 0 terminals
+[I 20:38:04.769 NotebookApp] Serving notebooks from local directory: /mnt/c/Users/Patron/Documents/GitHub/Evictions-Project
+[I 20:38:04.770 NotebookApp] Jupyter Notebook 6.4.10 is running at:
+[I 20:38:04.770 NotebookApp] http://LOAN-MEM-D030:2020/
+[I 20:38:04.771 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 20:38:07.521 NotebookApp] 302 GET / (127.0.0.1) 1.790000ms
+[W 20:38:19.696 NotebookApp] Notebook apartments/apartment visualization.ipynb is not trusted
+[I 20:38:22.881 NotebookApp] Kernel started: 520bf415-ce91-4371-afd8-5b3f26c5d8ae, name: python3
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: d848074e-a455-432d-bb84-a27539689a57
+[I 14:34:35.580 NotebookApp] Starting buffering for 520bf415-ce91-4371-afd8-5b3f26c5d8ae:4f70788973ab49b19c34e0728b8cbbee
+[I 14:34:37.628 NotebookApp] Shutting down on /api/shutdown request.
+[I 14:34:37.630 NotebookApp] Shutting down 1 kernel
+[I 14:34:37.632 NotebookApp] Kernel shutdown: 520bf415-ce91-4371-afd8-5b3f26c5d8ae
+[I 14:34:37.947 NotebookApp] Shutting down 0 terminals
+[I 20:32:57.454 NotebookApp] Serving notebooks from local directory: /mnt/c/Users/Patron/Documents/GitHub/Evictions-Project
+[I 20:32:57.456 NotebookApp] Jupyter Notebook 6.4.10 is running at:
+[I 20:32:57.456 NotebookApp] http://LOAN-MEM-D030:2020/
+[I 20:32:57.456 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 20:32:59.987 NotebookApp] 302 GET / (127.0.0.1) 1.130000ms
+[W 20:41:24.764 NotebookApp] Notebook apartments/apartment visualization.ipynb is not trusted
+[I 20:41:27.039 NotebookApp] Kernel started: 36fd4ebb-db8c-4b33-95a3-31224d1a089c, name: python3
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 2f20578c-0f9d-4502-8392-344b1da9d553
+[I 20:52:46.717 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[W 20:52:46.718 NotebookApp] Notebook apartments/apartment visualization.ipynb is not trusted
+[I 20:54:26.673 NotebookApp] Starting buffering for 36fd4ebb-db8c-4b33-95a3-31224d1a089c:56de4b2c4fb649769dd9e6afc5b0c8f3
+[I 20:54:26.914 NotebookApp] Kernel restarted: 36fd4ebb-db8c-4b33-95a3-31224d1a089c
+[I 20:54:26.950 NotebookApp] Restoring connection for 36fd4ebb-db8c-4b33-95a3-31224d1a089c:56de4b2c4fb649769dd9e6afc5b0c8f3
+[I 20:54:27.626 NotebookApp] Replaying 3 buffered messages
+[I 20:55:28.002 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 20:57:27.997 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 20:58:31.942 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 20:59:28.886 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 21:01:02.406 NotebookApp] Kernel started: b77696d7-7fa7-4a71-ae95-693180cc5665, name: python3
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: dfa468f6-40c9-430b-a249-8b0a183b874e
+[I 21:01:28.664 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 21:02:36.440 NotebookApp] Starting buffering for 36fd4ebb-db8c-4b33-95a3-31224d1a089c:56de4b2c4fb649769dd9e6afc5b0c8f3
+[I 21:02:37.410 NotebookApp] Kernel restarted: 36fd4ebb-db8c-4b33-95a3-31224d1a089c
+[I 21:02:37.439 NotebookApp] Restoring connection for 36fd4ebb-db8c-4b33-95a3-31224d1a089c:56de4b2c4fb649769dd9e6afc5b0c8f3
+[I 21:02:38.003 NotebookApp] Replaying 3 buffered messages
+[I 21:03:29.412 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 21:05:29.584 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 21:07:29.595 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 21:07:39.197 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 21:07:40.574 NotebookApp] Starting buffering for 36fd4ebb-db8c-4b33-95a3-31224d1a089c:56de4b2c4fb649769dd9e6afc5b0c8f3
+[I 21:07:41.361 NotebookApp] Starting buffering for b77696d7-7fa7-4a71-ae95-693180cc5665:d1f9d456ad814da1821a3c1be04ca60c
+[I 21:07:43.041 NotebookApp] Shutting down on /api/shutdown request.
+[I 21:07:43.052 NotebookApp] Shutting down 2 kernels
+[I 21:07:43.062 NotebookApp] Kernel shutdown: b77696d7-7fa7-4a71-ae95-693180cc5665
+[I 21:07:43.064 NotebookApp] Kernel shutdown: 36fd4ebb-db8c-4b33-95a3-31224d1a089c
+[I 21:07:44.793 NotebookApp] Shutting down 0 terminals
+[I 21:07:55.021 NotebookApp] Serving notebooks from local directory: /mnt/c/Users/Patron/Documents/GitHub/Evictions-Project
+[I 21:07:55.021 NotebookApp] Jupyter Notebook 6.4.10 is running at:
+[I 21:07:55.021 NotebookApp] http://LOAN-MEM-D030:2020/
+[I 21:07:55.022 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 21:07:56.961 NotebookApp] 302 GET / (127.0.0.1) 0.750000ms
+[W 21:08:10.726 NotebookApp] Notebook apartments/apartment visualization.ipynb is not trusted
+[I 21:08:13.570 NotebookApp] Kernel started: 0a0bc29f-9645-4ce1-9818-a8fb0ec473c8, name: python3
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 62f64d5e-cd55-4c29-a338-a35e4ea9c830
+[I 21:08:18.672 NotebookApp] Starting buffering for 0a0bc29f-9645-4ce1-9818-a8fb0ec473c8:5e194565ab8c407f98100f9bcfeaa79d
+[I 21:08:18.931 NotebookApp] Kernel restarted: 0a0bc29f-9645-4ce1-9818-a8fb0ec473c8
+[I 21:08:19.068 NotebookApp] Restoring connection for 0a0bc29f-9645-4ce1-9818-a8fb0ec473c8:5e194565ab8c407f98100f9bcfeaa79d
+[I 21:08:19.626 NotebookApp] Replaying 3 buffered messages
+[I 21:10:13.479 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 21:12:14.274 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 21:20:16.303 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 21:46:19.307 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[W 21:46:42.766 NotebookApp] Notebook apartments/densityOfAddressesByDistrict.ipynb is not trusted
+[I 21:46:43.702 NotebookApp] Kernel started: 68c81693-1f5a-49b0-8b12-e2111a1ac1c3, name: python3
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 9663107f-32af-41a4-ad02-56bf7e9202f1
+[I 21:48:19.374 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 21:48:21.814 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 21:50:19.304 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 21:52:19.314 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 21:54:19.293 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[W 21:55:13.688 NotebookApp] 404 GET /versionedResource/b645628/stylesheets/wcca.css (127.0.0.1) 82.420000ms referer=http://127.0.0.1:2020/
+[W 21:55:13.693 NotebookApp] 404 GET /versionedResource/b645628/webjars/foundation-icon-fonts/d596a3cfb3/foundation-icons.css (127.0.0.1) 2.670000ms referer=http://127.0.0.1:2020/
+[W 21:55:13.699 NotebookApp] 404 GET /versionedResource/b645628/webjars/modernizr/2.8.3/modernizr.js (127.0.0.1) 4.530000ms referer=http://127.0.0.1:2020/
+[W 21:55:13.700 NotebookApp] 404 GET /versionedResource/b645628/js/commons.packed.js (127.0.0.1) 3.760000ms referer=http://127.0.0.1:2020/
+[W 21:55:13.703 NotebookApp] 404 GET /versionedResource/b645628/js/default.packed.js (127.0.0.1) 6.200000ms referer=http://127.0.0.1:2020/
+[W 21:55:13.705 NotebookApp] 404 GET /versionedResource/b645628/js/index.packed.js (127.0.0.1) 7.940000ms referer=http://127.0.0.1:2020/
+[W 21:55:13.741 NotebookApp] 404 GET /classpath/common/images/lady-justice.png (127.0.0.1) 6.880000ms referer=http://127.0.0.1:2020/
+[I 21:56:19.343 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 09:00:52.059 NotebookApp] Starting buffering for 68c81693-1f5a-49b0-8b12-e2111a1ac1c3:215d261a12d74e95b027e360b34e7ae0
+[I 09:00:54.945 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 09:00:56.169 NotebookApp] Starting buffering for 0a0bc29f-9645-4ce1-9818-a8fb0ec473c8:5e194565ab8c407f98100f9bcfeaa79d
+[I 09:01:00.148 NotebookApp] Shutting down on /api/shutdown request.
+[I 09:01:00.176 NotebookApp] Shutting down 2 kernels
+[I 09:01:00.204 NotebookApp] Kernel shutdown: 0a0bc29f-9645-4ce1-9818-a8fb0ec473c8
+[I 09:01:00.209 NotebookApp] Kernel shutdown: 68c81693-1f5a-49b0-8b12-e2111a1ac1c3
+[I 09:01:04.216 NotebookApp] Shutting down 0 terminals
+[I 19:32:36.522 NotebookApp] Serving notebooks from local directory: /mnt/c/Users/Patron/Documents/GitHub/Evictions-Project
+[I 19:32:36.524 NotebookApp] Jupyter Notebook 6.4.10 is running at:
+[I 19:32:36.524 NotebookApp] http://LOAN-MEM-D030:2020/
+[I 19:32:36.525 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 19:32:37.722 NotebookApp] 302 GET / (127.0.0.1) 0.900000ms
+[W 19:33:13.766 NotebookApp] Notebook apartments/apartment visualization.ipynb is not trusted
+[I 19:33:19.099 NotebookApp] Kernel started: 545787fb-c8b5-4d1e-be77-c1158e703367, name: python3
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 75ef9759-5c2b-4979-b76d-505943ed6468
+[I 19:37:25.268 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[W 19:37:25.274 NotebookApp] Notebook apartments/apartment visualization.ipynb is not trusted
+[I 19:38:24.932 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[W 19:38:24.937 NotebookApp] Notebook apartments/apartment visualization.ipynb is not trusted
+[I 19:38:29.857 NotebookApp] Starting buffering for 545787fb-c8b5-4d1e-be77-c1158e703367:7e6edf1056b840388bb8ea69b23cde50
+[I 19:38:30.427 NotebookApp] Kernel restarted: 545787fb-c8b5-4d1e-be77-c1158e703367
+[I 19:38:30.888 NotebookApp] Restoring connection for 545787fb-c8b5-4d1e-be77-c1158e703367:7e6edf1056b840388bb8ea69b23cde50
+[I 19:38:32.226 NotebookApp] Replaying 3 buffered messages
+[I 19:39:19.459 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 19:39:41.047 NotebookApp] Kernel started: 3e23414f-5dbb-406c-bc19-ef379927ebdc, name: python3
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: e410e76c-1bbe-4b7c-b93b-5946fdd4d447
+[I 19:39:50.917 NotebookApp] Starting buffering for 3e23414f-5dbb-406c-bc19-ef379927ebdc:ee26729f14b643a1ac63b9e062912f7d
+[W 19:39:57.501 NotebookApp] Notebook apartments/densityOfAddressesByDistrict.ipynb is not trusted
+[I 19:39:59.589 NotebookApp] Kernel started: 002a8e83-4cce-4735-94e0-2013b933d756, name: python3
+[W 19:40:01.030 NotebookApp] Notebook apartments/webScrape.ipynb is not trusted
+[I 19:40:01.989 NotebookApp] Kernel started: 36bec8dd-6ce7-4217-bf29-2e45dec7e4c1, name: python3
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 976e3364-b315-4f83-8aad-1b3e8f358a59
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 57470909-cac7-4407-8bb8-7f6a887a1a28
+[I 19:40:07.127 NotebookApp] Starting buffering for 002a8e83-4cce-4735-94e0-2013b933d756:62a968fb9d6546e9afaaf3b20c5741c2
+[I 19:40:11.611 NotebookApp] Starting buffering for 36bec8dd-6ce7-4217-bf29-2e45dec7e4c1:b9e32d4a56094a9880a4df357400c857
+[I 19:40:47.586 NotebookApp] Kernel shutdown: 3e23414f-5dbb-406c-bc19-ef379927ebdc
+[I 19:40:47.604 NotebookApp] Kernel shutdown: 002a8e83-4cce-4735-94e0-2013b933d756
+[I 19:40:47.620 NotebookApp] Kernel shutdown: 36bec8dd-6ce7-4217-bf29-2e45dec7e4c1
+[I 19:41:19.286 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 19:43:20.125 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 19:45:21.003 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 19:47:21.166 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 19:48:31.812 NotebookApp] Creating new notebook in /case scraping
+[I 19:48:36.346 NotebookApp] Kernel started: ed241a0e-d336-42b9-8397-8c46f0591680, name: python3
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 290a3595-5b5c-4dfa-9c0a-e811e912732d
+[I 19:50:36.117 NotebookApp] Saving file at /case scraping/Untitled.ipynb
+[I 19:52:36.351 NotebookApp] Saving file at /case scraping/Untitled.ipynb
+[I 19:54:36.502 NotebookApp] Saving file at /case scraping/Untitled.ipynb
+[I 19:56:36.546 NotebookApp] Saving file at /case scraping/Untitled.ipynb
+[I 19:58:38.066 NotebookApp] Saving file at /case scraping/Untitled.ipynb
+[W 19:59:49.256 NotebookApp] Notebook case scraping/caseScrape.ipynb is not trusted
+[I 19:59:51.434 NotebookApp] Kernel started: 338d0786-3371-4c3c-917c-8cb643abba0d, name: python3
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: b4d55105-31ce-439a-a273-016accb65105
+[I 20:00:37.731 NotebookApp] Saving file at /case scraping/Untitled.ipynb
+[I 20:02:37.439 NotebookApp] Saving file at /case scraping/Untitled.ipynb
+[I 20:04:37.426 NotebookApp] Saving file at /case scraping/Untitled.ipynb
+[I 20:06:37.426 NotebookApp] Saving file at /case scraping/Untitled.ipynb
+[I 20:08:37.431 NotebookApp] Saving file at /case scraping/Untitled.ipynb
+[I 20:12:38.053 NotebookApp] Saving file at /case scraping/Untitled.ipynb
+[I 20:14:38.117 NotebookApp] Saving file at /case scraping/Untitled.ipynb
+[I 20:16:38.069 NotebookApp] Saving file at /case scraping/Untitled.ipynb
+[I 20:18:38.793 NotebookApp] Saving file at /case scraping/Untitled.ipynb
+[I 20:20:13.065 NotebookApp] Starting buffering for ed241a0e-d336-42b9-8397-8c46f0591680:030426e401b1426281e9c4c345166fc5
+[I 20:20:14.290 NotebookApp] Kernel restarted: ed241a0e-d336-42b9-8397-8c46f0591680
+[I 20:20:14.357 NotebookApp] Restoring connection for ed241a0e-d336-42b9-8397-8c46f0591680:030426e401b1426281e9c4c345166fc5
+[I 20:20:16.650 NotebookApp] Replaying 3 buffered messages
+[I 20:20:38.479 NotebookApp] Saving file at /case scraping/Untitled.ipynb
+[I 20:22:39.310 NotebookApp] Saving file at /case scraping/Untitled.ipynb
+[I 20:50:35.994 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 20:52:36.311 NotebookApp] Saving file at /case scraping/getAddresses.ipynb
+[I 20:52:36.829 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 20:54:36.385 NotebookApp] Saving file at /case scraping/getAddresses.ipynb
+[I 20:54:36.880 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 20:56:36.866 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 20:58:36.882 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 21:00:36.696 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 21:02:38.368 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 21:04:38.167 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 21:06:38.134 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 21:08:38.580 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 21:10:38.918 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 21:12:39.410 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 21:14:39.473 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 21:16:40.249 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 21:20:41.104 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 21:26:41.096 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 21:28:41.304 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 21:29:07.637 NotebookApp] Saving file at /case scraping/getAddresses.ipynb
+[I 21:30:44.898 NotebookApp] Saving file at /case scraping/getAddresses.ipynb
+[I 21:31:07.111 NotebookApp] Saving file at /case scraping/getAddresses.ipynb
+[I 21:32:46.387 NotebookApp] Saving file at /case scraping/getAddresses.ipynb
+[I 21:34:42.856 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 21:34:46.884 NotebookApp] Saving file at /case scraping/getAddresses.ipynb
+[I 21:36:42.845 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 21:38:42.773 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 21:40:42.949 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 21:42:42.777 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 21:44:42.825 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 21:54:42.650 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 21:55:24.321 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 21:56:42.747 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 21:58:42.617 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 22:00:42.621 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 22:02:42.624 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 22:04:42.627 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 22:06:42.639 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 22:08:42.648 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 22:08:52.482 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 22:09:24.472 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 22:10:42.655 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 22:12:42.669 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 22:14:32.714 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 22:15:04.938 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 22:16:42.901 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 22:18:42.861 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 22:18:49.625 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 22:20:42.868 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 22:22:42.892 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 22:24:42.923 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 22:26:42.888 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 22:28:42.916 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 22:30:42.918 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 22:32:42.978 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 22:34:33.008 NotebookApp] Kernel interrupted: 545787fb-c8b5-4d1e-be77-c1158e703367
+[I 22:34:43.658 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 22:36:43.611 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 22:38:44.813 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 22:40:22.821 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 01:07:59.578 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 01:08:15.523 NotebookApp] Starting buffering for 338d0786-3371-4c3c-917c-8cb643abba0d:d0f7c6e584254c308d2e998949ce7909
+[I 01:08:16.792 NotebookApp] Saving file at /case scraping/getAddresses.ipynb
+[I 01:08:18.506 NotebookApp] Starting buffering for ed241a0e-d336-42b9-8397-8c46f0591680:030426e401b1426281e9c4c345166fc5
+[I 09:01:18.813 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 09:03:18.888 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 09:05:18.849 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 09:15:18.957 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 09:17:18.805 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 09:19:19.013 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 09:43:46.119 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 09:43:59.121 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 09:45:45.156 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 09:47:45.755 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 10:29:39.810 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 10:31:12.264 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 10:31:40.006 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 10:39:38.002 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 10:39:43.655 NotebookApp] Starting buffering for 545787fb-c8b5-4d1e-be77-c1158e703367:7e6edf1056b840388bb8ea69b23cde50
+[I 10:39:46.114 NotebookApp] Shutting down on /api/shutdown request.
+[I 10:39:46.428 NotebookApp] Shutting down 3 kernels
+[I 10:39:46.516 NotebookApp] Kernel shutdown: ed241a0e-d336-42b9-8397-8c46f0591680
+[I 10:39:46.526 NotebookApp] Kernel shutdown: 545787fb-c8b5-4d1e-be77-c1158e703367
+[I 10:39:46.528 NotebookApp] Kernel shutdown: 338d0786-3371-4c3c-917c-8cb643abba0d
+[I 10:39:55.053 NotebookApp] Shutting down 0 terminals
+[I 09:24:35.990 NotebookApp] Serving notebooks from local directory: /mnt/c/Users/Patron/Documents/GitHub/Evictions-Project
+[I 09:24:35.991 NotebookApp] Jupyter Notebook 6.4.10 is running at:
+[I 09:24:35.992 NotebookApp] http://LOAN-MEM-D030:2020/
+[I 09:24:35.992 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 09:24:37.513 NotebookApp] 302 GET / (127.0.0.1) 3.700000ms
+[W 09:28:00.285 NotebookApp] Notebook apartments/apartment visualization.ipynb is not trusted
+[I 09:28:07.833 NotebookApp] Kernel started: 298b45e8-cca3-49d0-a2ba-5050336a2498, name: python3
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: c44f8d8b-cd22-4f85-a991-6bba7a58a59b
+[I 10:49:21.834 NotebookApp] Starting buffering for 298b45e8-cca3-49d0-a2ba-5050336a2498:3c4906eca3f843908d713d1c8a2074de
+[I 10:49:22.213 NotebookApp] Kernel restarted: 298b45e8-cca3-49d0-a2ba-5050336a2498
+[I 10:49:22.648 NotebookApp] Restoring connection for 298b45e8-cca3-49d0-a2ba-5050336a2498:3c4906eca3f843908d713d1c8a2074de
+[I 10:49:23.892 NotebookApp] Replaying 3 buffered messages
+[I 10:49:46.543 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 10:51:47.623 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 10:53:47.715 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 11:07:51.298 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 11:09:52.204 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
