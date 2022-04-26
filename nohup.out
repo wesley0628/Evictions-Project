@@ -1649,3 +1649,87 @@ KeyboardInterrupt
 [I 10:53:47.715 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
 [I 11:07:51.298 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
 [I 11:09:52.204 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 11:11:31.206 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 11:11:51.943 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 11:13:51.883 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 11:15:54.131 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 11:17:52.554 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 11:19:52.660 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 11:21:52.630 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 11:23:52.905 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 11:25:52.680 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 11:31:52.861 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 11:43:54.306 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 11:44:48.935 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 11:45:54.147 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[W 11:47:38.977 NotebookApp] Notebook apartments/densityOfAddressesByDistrict.ipynb is not trusted
+[I 11:47:40.783 NotebookApp] Kernel started: e8aba7b2-3dc9-4a91-9b8c-850618a838a3, name: python3
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 29dcd27b-3ed0-4541-8dcd-07825742b6a8
+[I 11:47:54.281 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 11:49:56.090 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 11:51:56.616 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 11:59:59.874 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 12:08:34.340 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 13:27:16.915 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 13:31:36.813 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 13:33:47.452 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 13:40:18.143 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 15:03:49.189 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 15:04:13.054 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 15:10:16.284 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 15:11:13.008 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 16:06:07.531 NotebookApp] Starting buffering for 298b45e8-cca3-49d0-a2ba-5050336a2498:3c4906eca3f843908d713d1c8a2074de
+[I 16:06:12.304 NotebookApp] Kernel restarted: 298b45e8-cca3-49d0-a2ba-5050336a2498
+[I 16:06:12.544 NotebookApp] Restoring connection for 298b45e8-cca3-49d0-a2ba-5050336a2498:3c4906eca3f843908d713d1c8a2074de
+[W 16:06:17.072 NotebookApp] Nudge: attempt 10 on kernel 298b45e8-cca3-49d0-a2ba-5050336a2498
+[I 16:06:18.207 NotebookApp] Replaying 3 buffered messages
+[I 16:07:08.964 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 16:09:47.695 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 16:11:58.521 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 16:22:51.428 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 16:25:01.378 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 16:27:11.328 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 16:29:21.360 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 16:31:31.429 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 16:33:41.451 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 16:35:51.419 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 16:38:01.389 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 16:40:11.411 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 16:42:21.398 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 16:44:31.401 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 16:46:41.513 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 16:48:51.490 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 16:51:01.475 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 16:53:11.512 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 16:55:22.035 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 16:57:31.658 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 16:59:41.653 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 17:01:51.672 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 17:04:01.689 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 17:06:11.955 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 17:07:52.640 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 20:05:20.200 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 20:05:47.370 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 20:08:46.536 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 20:09:40.091 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 20:09:53.941 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 20:11:50.355 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 20:14:00.071 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 20:14:19.967 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 20:14:38.702 NotebookApp] Saving file at /apartments/densityOfAddressesByDistrict.ipynb
+[W 20:14:38.703 NotebookApp] Notebook apartments/densityOfAddressesByDistrict.ipynb is not trusted
+[I 20:14:40.228 NotebookApp] Starting buffering for e8aba7b2-3dc9-4a91-9b8c-850618a838a3:2cafe991c6cc422abfcb4428f84200fa
+[I 20:14:41.177 NotebookApp] Kernel restarted: e8aba7b2-3dc9-4a91-9b8c-850618a838a3
+[I 20:14:41.329 NotebookApp] Restoring connection for e8aba7b2-3dc9-4a91-9b8c-850618a838a3:2cafe991c6cc422abfcb4428f84200fa
+[I 20:14:43.351 NotebookApp] Replaying 3 buffered messages
+[I 20:16:10.082 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 20:16:38.801 NotebookApp] Saving file at /apartments/densityOfAddressesByDistrict.ipynb
+[I 20:18:20.148 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 20:20:30.109 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 20:22:40.184 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 20:24:50.129 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 20:27:00.114 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 20:29:10.758 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 20:32:43.244 NotebookApp] Saving file at /apartments/densityOfAddressesByDistrict.ipynb
+[I 20:37:08.176 NotebookApp] Saving file at /apartments/densityOfAddressesByDistrict.ipynb
