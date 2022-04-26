@@ -1733,3 +1733,49 @@ KeyboardInterrupt
 [I 20:29:10.758 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
 [I 20:32:43.244 NotebookApp] Saving file at /apartments/densityOfAddressesByDistrict.ipynb
 [I 20:37:08.176 NotebookApp] Saving file at /apartments/densityOfAddressesByDistrict.ipynb
+[I 23:56:21.515 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 23:58:31.277 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 00:00:41.864 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 00:02:52.499 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 00:05:02.394 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 00:05:50.227 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 00:06:11.371 NotebookApp] Saving file at /apartments/densityOfAddressesByDistrict.ipynb
+[I 00:07:17.704 NotebookApp] Starting buffering for 298b45e8-cca3-49d0-a2ba-5050336a2498:3c4906eca3f843908d713d1c8a2074de
+[I 00:07:20.534 NotebookApp] Saving file at /apartments/densityOfAddressesByDistrict.ipynb
+[I 00:07:21.032 NotebookApp] Saving file at /apartments/densityOfAddressesByDistrict.ipynb
+[I 00:07:22.785 NotebookApp] Starting buffering for e8aba7b2-3dc9-4a91-9b8c-850618a838a3:2cafe991c6cc422abfcb4428f84200fa
+[I 00:07:24.517 NotebookApp] Shutting down on /api/shutdown request.
+[I 00:07:24.567 NotebookApp] Shutting down 2 kernels
+[I 00:07:24.588 NotebookApp] Kernel shutdown: 298b45e8-cca3-49d0-a2ba-5050336a2498
+[I 00:07:24.597 NotebookApp] Kernel shutdown: e8aba7b2-3dc9-4a91-9b8c-850618a838a3
+[I 00:07:30.800 NotebookApp] Shutting down 0 terminals
+[I 09:30:18.277 NotebookApp] Serving notebooks from local directory: /mnt/c/Users/Patron/Documents/GitHub/Evictions-Project
+[I 09:30:18.278 NotebookApp] Jupyter Notebook 6.4.10 is running at:
+[I 09:30:18.278 NotebookApp] http://LOAN-MEM-D030:2020/
+[I 09:30:18.279 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 09:30:19.183 NotebookApp] 302 GET / (127.0.0.1) 0.580000ms
+[W 09:31:31.104 NotebookApp] Notebook apartments/apartment visualization.ipynb is not trusted
+[I 09:31:40.470 NotebookApp] Kernel started: c63dd3b4-ebcf-495c-8078-cb39e0f22835, name: python3
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 7e50dbfb-da65-4067-8557-83d89fbde24e
+[I 10:08:16.047 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[W 10:08:16.049 NotebookApp] Notebook apartments/apartment visualization.ipynb is not trusted
+[I 10:08:20.295 NotebookApp] Starting buffering for c63dd3b4-ebcf-495c-8078-cb39e0f22835:c03fd1ad8a9d40a889b2fc811945b8c6
+[I 10:08:20.676 NotebookApp] Kernel restarted: c63dd3b4-ebcf-495c-8078-cb39e0f22835
+[I 10:08:20.759 NotebookApp] Restoring connection for c63dd3b4-ebcf-495c-8078-cb39e0f22835:c03fd1ad8a9d40a889b2fc811945b8c6
+[I 10:08:21.750 NotebookApp] Replaying 3 buffered messages
+[I 10:10:17.672 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 10:12:18.227 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 10:14:17.860 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 10:16:17.835 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 10:18:18.044 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 10:20:17.944 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 10:22:17.868 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 10:22:20.305 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 10:25:10.939 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 10:37:38.502 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 10:37:40.699 NotebookApp] Starting buffering for c63dd3b4-ebcf-495c-8078-cb39e0f22835:c03fd1ad8a9d40a889b2fc811945b8c6
+[I 10:37:44.309 NotebookApp] Shutting down on /api/shutdown request.
+[I 10:37:44.376 NotebookApp] Shutting down 1 kernel
+[I 10:37:44.429 NotebookApp] Kernel shutdown: c63dd3b4-ebcf-495c-8078-cb39e0f22835
+[I 10:37:47.323 NotebookApp] Shutting down 0 terminals
