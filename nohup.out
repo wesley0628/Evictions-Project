@@ -1844,3 +1844,64 @@ KeyboardInterrupt
 [I 00:23:43.353 NotebookApp] Shutting down 1 kernel
 [I 00:23:43.355 NotebookApp] Kernel shutdown: 1b7b30d4-87ce-4937-a043-1ce1d0d8ac72
 [I 00:23:43.672 NotebookApp] Shutting down 0 terminals
+[I 09:06:03.279 NotebookApp] Serving notebooks from local directory: /mnt/c/Users/Patron/Documents/GitHub/Evictions-Project
+[I 09:06:03.279 NotebookApp] Jupyter Notebook 6.4.10 is running at:
+[I 09:06:03.280 NotebookApp] http://LOAN-MEM-D030:2020/
+[I 09:06:03.280 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 09:06:04.243 NotebookApp] 302 GET / (127.0.0.1) 0.680000ms
+[W 09:20:31.872 NotebookApp] Notebook apartments/apartment visualization.ipynb is not trusted
+[I 09:20:37.197 NotebookApp] Kernel started: 967a71ff-68dd-4d7f-984a-7887cc80f289, name: python3
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 69ab7bea-0d30-46d8-b97d-e7742be7ba2b
+[I 09:22:18.269 NotebookApp] Starting buffering for 967a71ff-68dd-4d7f-984a-7887cc80f289:d843cdb9e6d246539996de8fba39ebac
+[I 09:22:18.745 NotebookApp] Kernel restarted: 967a71ff-68dd-4d7f-984a-7887cc80f289
+[I 09:22:19.057 NotebookApp] Restoring connection for 967a71ff-68dd-4d7f-984a-7887cc80f289:d843cdb9e6d246539996de8fba39ebac
+[I 09:22:19.634 NotebookApp] Replaying 3 buffered messages
+[I 09:22:37.756 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[W 09:22:37.759 NotebookApp] Notebook apartments/apartment visualization.ipynb is not trusted
+[I 09:22:58.102 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[W 09:22:58.104 NotebookApp] Notebook apartments/apartment visualization.ipynb is not trusted
+[I 10:21:00.492 NotebookApp] Starting buffering for 967a71ff-68dd-4d7f-984a-7887cc80f289:d843cdb9e6d246539996de8fba39ebac
+[I 10:21:01.768 NotebookApp] Kernel restarted: 967a71ff-68dd-4d7f-984a-7887cc80f289
+[I 10:21:01.796 NotebookApp] Restoring connection for 967a71ff-68dd-4d7f-984a-7887cc80f289:d843cdb9e6d246539996de8fba39ebac
+[I 10:21:02.687 NotebookApp] Replaying 3 buffered messages
+[I 10:22:21.520 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 10:24:21.820 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[I 11:01:20.160 NotebookApp] Saving file at /apartments/apartment visualization.ipynb
+[W 12:57:25.260 NotebookApp] Notebook case scraping/caseScrape.ipynb is not trusted
+[I 12:57:26.280 NotebookApp] Kernel started: 691ec0df-d6c4-4fec-837f-38e219e5061b, name: python3
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 3901f422-a2bf-4d72-a2f4-2d959e799b81
+[I 12:57:54.565 NotebookApp] Starting buffering for 691ec0df-d6c4-4fec-837f-38e219e5061b:ff900aa8e4e24b96a68a4dcd28bb9ca1
+[I 15:09:22.761 NotebookApp] Starting buffering for 967a71ff-68dd-4d7f-984a-7887cc80f289:d843cdb9e6d246539996de8fba39ebac
+[I 15:09:24.334 NotebookApp] Shutting down on /api/shutdown request.
+[I 15:09:24.390 NotebookApp] Shutting down 2 kernels
+[I 15:09:24.426 NotebookApp] Kernel shutdown: 691ec0df-d6c4-4fec-837f-38e219e5061b
+[I 15:09:24.429 NotebookApp] Kernel shutdown: 967a71ff-68dd-4d7f-984a-7887cc80f289
+[I 15:09:28.420 NotebookApp] Shutting down 0 terminals
+[I 00:52:11.318 NotebookApp] Serving notebooks from local directory: /mnt/c/Users/Patron/Documents/GitHub/Evictions-Project
+[I 00:52:11.319 NotebookApp] Jupyter Notebook 6.4.10 is running at:
+[I 00:52:11.320 NotebookApp] http://LOAN-MEM-D030:2020/
+[I 00:52:11.320 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 00:52:11.645 NotebookApp] 302 GET / (127.0.0.1) 0.840000ms
+[I 00:52:38.215 NotebookApp] Kernel started: d602c6f4-c137-4c29-b965-8553205b0570, name: python3
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 95b177ef-3373-4103-93d4-dd4cdabaa098
+[I 10:41:05.060 NotebookApp] Starting buffering for d602c6f4-c137-4c29-b965-8553205b0570:53c4c1dfc8104efab153d12842f5b4e1
+[I 10:41:05.959 NotebookApp] Shutting down on /api/shutdown request.
+[I 10:41:05.981 NotebookApp] Shutting down 1 kernel
+[I 10:41:05.991 NotebookApp] Kernel shutdown: d602c6f4-c137-4c29-b965-8553205b0570
+[I 10:41:06.824 NotebookApp] Shutting down 0 terminals
+[I 20:22:14.158 NotebookApp] Serving notebooks from local directory: /mnt/c/Users/Patron/Documents/GitHub/Evictions-Project
+[I 20:22:14.163 NotebookApp] Jupyter Notebook 6.4.10 is running at:
+[I 20:22:14.167 NotebookApp] http://LOAN-MEM-D030:2020/
+[I 20:22:14.169 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 20:22:15.708 NotebookApp] 302 GET / (127.0.0.1) 0.960000ms
+[I 20:22:30.118 NotebookApp] Kernel started: 2d2d647f-82aa-4994-86b2-047cb5b8c526, name: python3
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 6fccbc71-898b-422d-a55b-e63d684753c6
+[I 21:19:40.519 NotebookApp] Starting buffering for 2d2d647f-82aa-4994-86b2-047cb5b8c526:340a39ac9bc648dd95a1d7b455297267
+[I 21:19:41.703 NotebookApp] Shutting down on /api/shutdown request.
+[I 21:19:41.737 NotebookApp] Shutting down 1 kernel
+[I 21:19:41.758 NotebookApp] Kernel shutdown: 2d2d647f-82aa-4994-86b2-047cb5b8c526
+[I 21:19:43.016 NotebookApp] Shutting down 0 terminals
